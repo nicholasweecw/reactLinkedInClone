@@ -1,6 +1,8 @@
-# To Access the App
-
-https://linkedin-clone-2d5a9.web.app/
+# LinkedIn Clone
+A clone of the LinkedIn web application built using ReactJS and Redux. Functionalities CSS3 include composition and posting of posts to
+the posts feed. Firebase is used for the
+backend, and the app also uses email and
+password authentication.
 
 # Getting Started with Create React App and Redux
 
