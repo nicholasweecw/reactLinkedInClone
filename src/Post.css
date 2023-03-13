@@ -10,8 +10,17 @@
     margin-bottom: 10px;
 }
 
-.post__info {
+.post_header > .header {
+    display: flex;
+}
+
+/* .avatar {
+    background-color: blue;
+} */
+
+.post__info { 
     margin-left: 10px;
+    margin-top: 5px;
 }
 
 .post__info > p {

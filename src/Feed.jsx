@@ -48,7 +48,7 @@ const Feed = () => {
   };
 
   return (
-    <div>
+    <div className="feed">
       <div className="feed__inputContainer">
         <div className="feed__input">
           <CreateIcon />
