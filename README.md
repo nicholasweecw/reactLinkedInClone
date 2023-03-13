@@ -4,6 +4,16 @@ the posts feed. Firebase is used for the
 backend, and the app also uses email and
 password authentication.
 
+# Screenshots of Application:
+Main Dashboard:
+![Main Dashboard](res/Main_Dashboard.png)
+
+Create New Post:
+![Create New Post](res/Create_New_Post.png)
+
+Publish New Post:
+![Publish New Post](res/Publish_New_Post.png)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
